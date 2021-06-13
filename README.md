@@ -7,13 +7,21 @@ come and collect the garbage. And if not cleaned, will send a complaint message 
 authority. 
 Requirments✨✔:
 ● Arduino UNO
+
 ● Ultrasonic Sensor 
+
 ● GSM Module (SIM800L GPRS GSM Module)
+
 ● LCD display 
+
 ● Bin
+
 ● External 3.7V Battery
+
 ● Capacitor- 25V
+
 ● Connecting wires
+
 ● Breadboard
 
 Software requirement✨: 
