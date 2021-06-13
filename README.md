@@ -30,7 +30,7 @@ Software requirement✨:
 
 ● Arduino IDE
 
-Programming Language UseD💖✨:- C++
+Programming Language Used💖✨:- C++
 
 
 
