@@ -5,7 +5,9 @@ by measuring the garbage level in real time and alerting the Garbage collection 
 bins are full. The system will also display in how much time the Garbage collection vans will 
 come and collect the garbage. And if not cleaned, will send a complaint message to the higher 
 authority. 
+
 Requirments✨✔:
+
 ● Arduino UNO
 
 ● Ultrasonic Sensor 
