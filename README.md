@@ -1,4 +1,5 @@
-# Smart-Bins
+# Smart-Bins✨⭐
+
 It is an IOT based project intended to make the environment healthy and clean by incorporating technology in it. 
 System will be used for proper monitoring and disposal of garbage 
 by measuring the garbage level in real time and alerting the Garbage collection team when the 
