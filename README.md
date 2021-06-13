@@ -15,6 +15,7 @@ Requirments✨✔:
 ● Capacitor- 25V
 ● Connecting wires
 ● Breadboard
+
 Software requirement✨: 
 ● Arduino IDE
 
