@@ -9,6 +9,7 @@ authority.
 Images:
 
 ![S1](https://user-images.githubusercontent.com/84183428/156493464-e54e14d5-4d32-4306-9b02-42bd93a2e843.jpg width=50% height=50%)
+<img src="https://user-images.githubusercontent.com/84183428/156493464-e54e14d5-4d32-4306-9b02-42bd93a2e843.jpg" width=50% height=50%>
 Displays Hello world when in IDLE state
 ![s2](https://user-images.githubusercontent.com/84183428/156493424-8337d798-7f45-471b-8995-8d6e0d9c1222.jpg width=50% height=50%)
 When bins full send message to the Muncipal cleaning vans along with address of bin.
