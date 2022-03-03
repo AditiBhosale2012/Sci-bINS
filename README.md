@@ -1,4 +1,4 @@
-# Smart-Bins✨⭐
+# SCI-Bins✨⭐
 
 It is an IOT based project intended to make the environment healthy and clean by incorporating technology in it. 
 System will be used for proper monitoring and disposal of garbage 
